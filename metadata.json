@@ -1,0 +1,6 @@
+{
+  "name": "K Darvesh Chicken Shop",
+  "description": "Premium Meat Ordering app for K Darvesh Chicken Shop, featuring Boiler & Gavran chicken, eggs, masale, local cart, checkout, tracking, order history, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
